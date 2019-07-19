@@ -19,10 +19,10 @@ DATABASES.update(
     {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'NAME': 'wzj_test1',  # 数据库名
+            'NAME': 'wzj-test1',  # 数据库名
             'USER': 'root',  # 数据库用户
-            'PASSWORD': 'Uqv.83WuNm',  # 数据库密码
-            'HOST': '10.0.1.192',  # 数据库主机
+            'PASSWORD': 'root',  # 数据库密码
+            'HOST': '192.168.14.41',  # 数据库主机
             'PORT': '3306',  # 数据库端口
         },
     }

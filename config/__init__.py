@@ -16,9 +16,9 @@ RUN_VER = 'open'
 # SaaS应用ID
 APP_CODE = 'wzj-test1'
 # SaaS安全密钥，注意请勿泄露该密钥
-SECRET_KEY = 'bd545db9-13ca-4f0c-a1cd-87b543a395bf'
+SECRET_KEY = 'e1acde75-8b31-4b85-a5dd-f76d2053645a'
 # 蓝鲸SaaS平台URL, 如 https://paas.blueking.com/
-BK_URL = 'http://paas.class.o.qcloud.com/'
+BK_URL = 'http://paas.jiaxianghudong.com'
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(
